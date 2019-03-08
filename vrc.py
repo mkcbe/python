@@ -6,7 +6,7 @@ if (65<=ascii)and(ascii<=90):
     else:
         print("Consonant")
 elif(97<=ascii)and(ascii<=122):
-    if(a=='A')or(a=='E')or(a=='I')or(a=='O')or(a=='U'):
+    if(a=='a')or(a=='e')or(a=='i')or(a=='o')or(a=='u'):
         print("Vowel")
     else:
         print("Consonant")
