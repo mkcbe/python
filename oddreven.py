@@ -1,5 +1,5 @@
 a=int(input())
-if (a<0)&&(a!=0):
+if (a<0)and(a!=0):
    print("invalid")
 else:
    ore=a%2
