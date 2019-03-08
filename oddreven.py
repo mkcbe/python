@@ -1,6 +1,9 @@
 a=int(input())
-ore=a%2
-if ore==0:
-  print("Even")
+if a>0:
+  ore=a%2
+  if ore==0:
+    print("Even")
+  else:
+    print("Odd")
 else:
-  print("Odd")
+    print("invalid")
