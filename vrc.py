@@ -5,7 +5,7 @@ if (65<=ascii)and(ascii<=90):
         print("Vowel")
     else:
         print("Consonant")
-elif(97<=ascii)and(ascii<=117):
+elif(97<=ascii)and(ascii<=122):
     if(ascii==97)and(ascii==101)and(ascii==105)and(ascii==111)and(ascii==117):
         print("Vowel")
     else:
