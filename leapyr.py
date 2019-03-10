@@ -4,5 +4,3 @@ if yr>0:
         print("yes")
     else:
         print("no")
-else:
-    exit(0)
