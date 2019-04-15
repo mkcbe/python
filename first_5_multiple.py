@@ -1,3 +1,5 @@
 n=int(input())
-for i in range(1,5+1):
-    print(n*i,end=" ")
+mul=[]
+for i in range(1,6):
+   mul.append(n*i)
+print(*mul)
